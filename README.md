@@ -36,7 +36,7 @@ A simple Electron-based application to manage Redis instances in a Kubernetes en
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/Sahstiva/redis-flush-app>
+   git clone https://github.com/Sahstiva/redis-flush-app.git
    cd redis-flush-app
    ```
 
